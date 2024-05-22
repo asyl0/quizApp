@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769262940354",
+    "project_id": "newquiz-d7f4c",
+    "storage_bucket": "newquiz-d7f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769262940354:android:714c0500e265b7b94f4b5b",
+        "android_client_info": {
+          "package_name": "com.example.newquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLMatp56J4FIQEGp0UGRu_QXiLJEadsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
